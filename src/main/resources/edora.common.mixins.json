@@ -4,8 +4,9 @@
   "package": "eu.octanne.edora.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "MixinPlayerInventory",
-    "MixinPlayerScreenHandler"
+    "player.MixinPlayerInventory",
+    "player.MixinPlayerScreenHandler",
+    "block.MixinSlabBlock"
   ],
   "client": [],
   "server": [],

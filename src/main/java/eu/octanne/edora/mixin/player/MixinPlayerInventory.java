@@ -1,4 +1,4 @@
-package eu.octanne.edora.mixin;
+package eu.octanne.edora.mixin.player;
 
 import java.util.List;
 

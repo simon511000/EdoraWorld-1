@@ -1,4 +1,4 @@
-package eu.octanne.edora.mixin;
+package eu.octanne.edora.mixin.player;
 
 import org.apache.logging.log4j.Level;
 import org.spongepowered.asm.mixin.Mixin;
